@@ -1,0 +1,600 @@
+Agent 42
+Score: 120.5
+Wins: 78
+Weights: 1 0 9 3 10
+Alpha: 0.10799009802120252
+
+Agent 60
+Score: 120.0
+Wins: 86
+Weights: 1 8 4 5 4
+Alpha: 0.1920717303053845
+
+Agent 45
+Score: 117.0
+Wins: 72
+Weights: 1 5 6 2 8
+Alpha: 0.05320731652070465
+
+Agent 65
+Score: 113.5
+Wins: 69
+Weights: 1 5 4 7 7
+Alpha: 0.020787815382636077
+
+Agent 89
+Score: 113.0
+Wins: 66
+Weights: 1 8 3 7 6
+Alpha: 0.025238235260147346
+
+Agent 92
+Score: 111.0
+Wins: 71
+Weights: 1 6 4 10 6
+Alpha: 0.07491451271103278
+
+Agent 72
+Score: 110.5
+Wins: 70
+Weights: 1 0 1 2 5
+Alpha: 0.13475665984551743
+
+Agent 93
+Score: 110.5
+Wins: 69
+Weights: 1 0 7 9 0
+Alpha: 0.2156464691331471
+
+Agent 26
+Score: 110.0
+Wins: 78
+Weights: 1 2 3 3 2
+Alpha: 0.2741787914559295
+
+Agent 96
+Score: 108.5
+Wins: 62
+Weights: 1 6 6 1 2
+Alpha: 0.04489418950516533
+
+Agent 19
+Score: 107.0
+Wins: 73
+Weights: 1 10 9 8 6
+Alpha: 0.2395694323626848
+
+Agent 88
+Score: 106.0
+Wins: 71
+Weights: 1 1 10 8 4
+Alpha: 0.9599763256262985
+
+Agent 39
+Score: 105.5
+Wins: 69
+Weights: 1 6 8 10 1
+Alpha: 0.44512434531300504
+
+Agent 61
+Score: 105.5
+Wins: 61
+Weights: 1 9 1 2 8
+Alpha: 0.10630941987158704
+
+Agent 74
+Score: 105.5
+Wins: 62
+Weights: 1 0 5 1 1
+Alpha: 0.180694491578426
+
+Agent 3
+Score: 105.0
+Wins: 61
+Weights: 1 3 5 3 7
+Alpha: 0.19191664693002808
+
+Agent 98
+Score: 105.0
+Wins: 62
+Weights: 1 6 5 4 3
+Alpha: 0.022518795126769353
+
+Agent 16
+Score: 104.5
+Wins: 63
+Weights: 1 10 9 4 3
+Alpha: 0.7919777466554059
+
+Agent 91
+Score: 104.5
+Wins: 66
+Weights: 1 10 5 2 0
+Alpha: 0.17543889120077938
+
+Agent 7
+Score: 104.0
+Wins: 69
+Weights: 1 2 9 7 4
+Alpha: 0.9661620207150263
+
+Agent 80
+Score: 104.0
+Wins: 70
+Weights: 1 9 9 10 7
+Alpha: 0.16919397777408152
+
+Agent 34
+Score: 103.5
+Wins: 70
+Weights: 1 10 2 4 6
+Alpha: 0.9836148646875013
+
+Agent 40
+Score: 103.5
+Wins: 70
+Weights: 1 3 8 10 10
+Alpha: 0.6092452682437697
+
+Agent 41
+Score: 103.5
+Wins: 55
+Weights: 1 5 10 10 6
+Alpha: 0.04834854942025757
+
+Agent 79
+Score: 103.5
+Wins: 56
+Weights: 1 1 4 0 8
+Alpha: 0.09316840507385016
+
+Agent 94
+Score: 103.5
+Wins: 62
+Weights: 1 1 8 6 4
+Alpha: 0.6522042712151015
+
+Agent 17
+Score: 102.5
+Wins: 61
+Weights: 1 6 4 7 2
+Alpha: 0.6333374627447647
+
+Agent 1
+Score: 102.0
+Wins: 65
+Weights: 1 7 4 10 3
+Alpha: 0.2802510715376617
+
+Agent 14
+Score: 102.0
+Wins: 67
+Weights: 1 4 10 1 1
+Alpha: 0.9910831415222362
+
+Agent 20
+Score: 102.0
+Wins: 67
+Weights: 1 2 7 9 9
+Alpha: 0.2859942990033071
+
+Agent 73
+Score: 102.0
+Wins: 61
+Weights: 1 3 4 0 0
+Alpha: 0.751961707043338
+
+Agent 82
+Score: 101.5
+Wins: 62
+Weights: 1 5 7 2 9
+Alpha: 0.4156906331326362
+
+Agent 23
+Score: 101.0
+Wins: 62
+Weights: 1 1 7 4 3
+Alpha: 0.6511426446705582
+
+Agent 24
+Score: 101.0
+Wins: 67
+Weights: 1 7 7 7 8
+Alpha: 0.37247473603645875
+
+Agent 53
+Score: 101.0
+Wins: 67
+Weights: 1 5 4 8 5
+Alpha: 0.9264883657195682
+
+Agent 71
+Score: 101.0
+Wins: 71
+Weights: 1 10 9 4 10
+Alpha: 0.240954291776467
+
+Agent 2
+Score: 100.5
+Wins: 64
+Weights: 1 5 4 4 7
+Alpha: 0.1669302360225764
+
+Agent 6
+Score: 100.5
+Wins: 65
+Weights: 1 9 2 7 5
+Alpha: 0.6733043932430964
+
+Agent 11
+Score: 100.5
+Wins: 68
+Weights: 1 1 0 5 1
+Alpha: 0.8138178723935211
+
+Agent 85
+Score: 100.5
+Wins: 61
+Weights: 1 4 8 1 7
+Alpha: 0.6465526483726364
+
+Agent 31
+Score: 99.5
+Wins: 68
+Weights: 1 2 7 4 5
+Alpha: 0.1893039635603594
+
+Agent 51
+Score: 99.5
+Wins: 64
+Weights: 1 5 4 2 5
+Alpha: 0.3489187712605142
+
+Agent 95
+Score: 99.5
+Wins: 63
+Weights: 1 9 2 7 1
+Alpha: 0.2619379243658224
+
+Agent 47
+Score: 99.0
+Wins: 61
+Weights: 1 2 8 8 8
+Alpha: 0.6568989898489819
+
+Agent 59
+Score: 99.0
+Wins: 68
+Weights: 1 9 4 8 0
+Alpha: 0.2627914198502912
+
+Agent 81
+Score: 99.0
+Wins: 56
+Weights: 1 4 2 10 9
+Alpha: 0.44563132888974477
+
+Agent 28
+Score: 98.5
+Wins: 60
+Weights: 1 4 7 0 6
+Alpha: 0.5334203885171745
+
+Agent 29
+Score: 98.5
+Wins: 57
+Weights: 1 7 2 5 7
+Alpha: 0.794970811424636
+
+Agent 32
+Score: 98.5
+Wins: 63
+Weights: 1 10 4 9 10
+Alpha: 0.8649192934619442
+
+Agent 62
+Score: 98.5
+Wins: 60
+Weights: 1 9 3 8 10
+Alpha: 0.6465944135330908
+
+Agent 5
+Score: 98.0
+Wins: 61
+Weights: 1 10 3 1 0
+Alpha: 0.36812364038875656
+
+Agent 22
+Score: 98.0
+Wins: 64
+Weights: 1 0 10 2 8
+Alpha: 0.8036554495649858
+
+Agent 46
+Score: 98.0
+Wins: 63
+Weights: 1 6 0 10 10
+Alpha: 0.7352566821018158
+
+Agent 78
+Score: 98.0
+Wins: 56
+Weights: 1 8 8 3 10
+Alpha: 0.8227724232252485
+
+Agent 12
+Score: 97.0
+Wins: 63
+Weights: 1 5 1 7 0
+Alpha: 0.6012759960062368
+
+Agent 33
+Score: 97.0
+Wins: 58
+Weights: 1 8 6 10 8
+Alpha: 0.6063157109983665
+
+Agent 35
+Score: 97.0
+Wins: 61
+Weights: 1 7 4 5 8
+Alpha: 0.5540027771480841
+
+Agent 70
+Score: 97.0
+Wins: 62
+Weights: 1 3 5 9 10
+Alpha: 0.35700136016147554
+
+Agent 97
+Score: 97.0
+Wins: 58
+Weights: 1 8 9 10 4
+Alpha: 0.6209272895252163
+
+Agent 25
+Score: 96.5
+Wins: 58
+Weights: 1 0 0 4 4
+Alpha: 0.43335922896811463
+
+Agent 56
+Score: 96.5
+Wins: 54
+Weights: 1 1 6 9 6
+Alpha: 0.18490293808320002
+
+Agent 57
+Score: 96.5
+Wins: 62
+Weights: 1 7 1 3 5
+Alpha: 0.7763664840719989
+
+Agent 58
+Score: 96.5
+Wins: 63
+Weights: 1 4 10 4 3
+Alpha: 0.3502760965782703
+
+Agent 84
+Score: 96.5
+Wins: 64
+Weights: 1 7 6 6 8
+Alpha: 0.727356541967437
+
+Agent 13
+Score: 96.0
+Wins: 60
+Weights: 1 4 1 8 1
+Alpha: 0.5477797624011809
+
+Agent 64
+Score: 96.0
+Wins: 59
+Weights: 1 4 5 2 9
+Alpha: 0.4627381104489031
+
+Agent 87
+Score: 96.0
+Wins: 61
+Weights: 1 6 7 7 6
+Alpha: 0.9777068479298467
+
+Agent 10
+Score: 95.5
+Wins: 63
+Weights: 1 0 1 4 1
+Alpha: 0.8330034565043312
+
+Agent 48
+Score: 95.5
+Wins: 61
+Weights: 1 4 0 6 2
+Alpha: 0.4494008340311634
+
+Agent 0
+Score: 95.0
+Wins: 61
+Weights: 1 3 4 1 3
+Alpha: 0.9666008005203599
+
+Agent 69
+Score: 94.5
+Wins: 60
+Weights: 1 0 4 7 5
+Alpha: 0.5387169909979158
+
+Agent 75
+Score: 94.5
+Wins: 58
+Weights: 1 0 1 1 5
+Alpha: 0.8021271804361758
+
+Agent 4
+Score: 94.0
+Wins: 59
+Weights: 1 4 7 7 2
+Alpha: 0.6200256422984113
+
+Agent 27
+Score: 94.0
+Wins: 63
+Weights: 1 7 8 0 7
+Alpha: 0.48462992670026683
+
+Agent 30
+Score: 94.0
+Wins: 59
+Weights: 1 3 7 7 8
+Alpha: 0.6336914186088336
+
+Agent 38
+Score: 94.0
+Wins: 53
+Weights: 1 8 4 7 4
+Alpha: 0.4733182685602034
+
+Agent 99
+Score: 94.0
+Wins: 61
+Weights: 1 7 10 1 7
+Alpha: 0.8681722767127776
+
+Agent 9
+Score: 93.5
+Wins: 59
+Weights: 1 1 3 2 5
+Alpha: 0.6655157531634842
+
+Agent 36
+Score: 93.5
+Wins: 54
+Weights: 1 10 1 8 8
+Alpha: 0.26384863981932394
+
+Agent 44
+Score: 93.5
+Wins: 57
+Weights: 1 1 3 0 6
+Alpha: 0.23677855875335763
+
+Agent 63
+Score: 93.5
+Wins: 58
+Weights: 1 10 3 6 2
+Alpha: 0.6552418275536743
+
+Agent 18
+Score: 93.0
+Wins: 58
+Weights: 1 0 6 10 4
+Alpha: 0.9205653720142991
+
+Agent 54
+Score: 93.0
+Wins: 57
+Weights: 1 3 10 7 8
+Alpha: 0.3801752860548433
+
+Agent 90
+Score: 93.0
+Wins: 58
+Weights: 1 1 0 0 5
+Alpha: 0.743691249027545
+
+Agent 15
+Score: 92.5
+Wins: 57
+Weights: 1 4 1 10 5
+Alpha: 0.761997557048755
+
+Agent 55
+Score: 92.5
+Wins: 56
+Weights: 1 6 7 8 3
+Alpha: 0.4665740367558252
+
+Agent 8
+Score: 92.0
+Wins: 58
+Weights: 1 7 10 5 0
+Alpha: 0.7794080841308851
+
+Agent 66
+Score: 92.0
+Wins: 53
+Weights: 1 5 2 10 9
+Alpha: 0.696368688716569
+
+Agent 50
+Score: 91.5
+Wins: 59
+Weights: 1 3 6 8 8
+Alpha: 0.7638746390179462
+
+Agent 68
+Score: 91.5
+Wins: 54
+Weights: 1 6 0 7 0
+Alpha: 0.9190855409902698
+
+Agent 86
+Score: 91.5
+Wins: 55
+Weights: 1 2 5 7 3
+Alpha: 0.7382373149161955
+
+Agent 21
+Score: 91.0
+Wins: 47
+Weights: 1 2 5 0 6
+Alpha: 0.6174353789516689
+
+Agent 52
+Score: 91.0
+Wins: 60
+Weights: 1 6 1 8 4
+Alpha: 0.5007398523737435
+
+Agent 37
+Score: 90.0
+Wins: 53
+Weights: 1 5 4 6 2
+Alpha: 0.9259960591355345
+
+Agent 77
+Score: 89.5
+Wins: 56
+Weights: 1 1 1 6 6
+Alpha: 0.48435523883029696
+
+Agent 83
+Score: 89.0
+Wins: 56
+Weights: 1 4 6 0 4
+Alpha: 0.5257378325955402
+
+Agent 43
+Score: 87.0
+Wins: 45
+Weights: 1 4 9 10 9
+Alpha: 0.6680999591199029
+
+Agent 67
+Score: 86.5
+Wins: 57
+Weights: 1 10 8 5 9
+Alpha: 0.8435526675637778
+
+Agent 76
+Score: 86.0
+Wins: 56
+Weights: 1 5 6 2 6
+Alpha: 0.3988353179169054
+
+Agent 49
+Score: 85.0
+Wins: 48
+Weights: 1 4 8 6 10
+Alpha: 0.9209975280436749
+
